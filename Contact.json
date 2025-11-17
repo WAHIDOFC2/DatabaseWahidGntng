@@ -1,12 +1,10 @@
-{
-  "registered": [
-    {
-      "number": "6285834208097",
-      "name": "abcd"
-    },
-    {
-      "number": "6285363504530",
-      "name": "abce"
-    }
-  ]
-}
+[
+  {
+    "number": "6285834208097", 
+    "name": "Wahid Ganteng"
+  },
+  {
+    "number": "6285363504530", 
+    "name": "abcd"
+  }
+]
